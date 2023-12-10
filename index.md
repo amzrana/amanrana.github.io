@@ -6,6 +6,6 @@
 ## Blog #1
 > **Date published:** 10th Dec, 2023
 
-### [Published work on Mixture of Experts (MoE)][def]
+### [Published work on Mixture of Experts (MoE)][def1]
 
-[def]: posts/published_work_on_mixture_of_experts.md
+[def1]: posts/published_work_on_mixture_of_experts.md

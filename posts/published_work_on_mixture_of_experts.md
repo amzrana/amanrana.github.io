@@ -2,25 +2,6 @@
 
 > **Date published:** 10th Dec, 2023
 
-<!-- 
-Background
-- Need for mixture of experts.
-- History of MoE and how old is the concept
-  - Initial results in 1990s
--->
-
-
-<!-- 
-Thought experiment on MoE - Understanding the concept using basic example.
--->
-
-
-<!-- MoE for deep learning -->
-
-
-<!--  -->
-
-
 
 ## Published work
 1. Adaptive Mixture of Local Experts ([arXiv](https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf))
