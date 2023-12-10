@@ -1,6 +1,6 @@
-# Aman Rana Blog
+# Aman Rana
 
-Welcome ! My name is Aman Rana and this is my personal technical blog on various things machine learning. I will try to include code snippets in the blogs wherever necessary.
+#### Welcome ! My name is Aman Rana and this is my personal blog on various things technology and machine learning. I will try to include code snippets in the blogs wherever necessary.
 
 
 ## Blog #1
