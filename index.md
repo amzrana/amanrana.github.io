@@ -3,10 +3,9 @@
 Welcome ! My name is Aman Rana and this is my personal technical blog on various things machine learning. I will try to include code snippets in the blogs wherever necessary.
 
 
-## Blog #1
+## Blog #1 (Under work)
+> **Date published:** Under construction
 
-**Date published:** Coming soon
+### [What are Mixture of Experts (MoE) ?][def]
 
-**Link:** [What are Mixture of Experts (MoE) ?](blogs/what_are_mixture_of_experts.md)
-
-**Tags:** deep_learning, mixture_of_experts, efficient_deep_learning
+[def]: blogs/what_are_mixture_of_experts.md
