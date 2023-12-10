@@ -1,6 +1,8 @@
-# [Blog] Published work on Mixture of Experts (MoE)
+# Published work on Mixture of Experts (MoE)
 
 > **Date published:** 10th Dec, 2023
+
+### [HOME](../index.md)
 
 &nbsp;
 
