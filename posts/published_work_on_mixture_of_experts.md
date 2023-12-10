@@ -29,3 +29,7 @@
 1. Towards Understanding Mixture of Experts in Deep Learning ([arXiv](https://arxiv.org/abs/2208.02813))
 1. Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models ([arXiv](https://arxiv.org/abs/2305.14705))
 1. From Sparse to Soft Mixtures of Experts ([arXiv](https://arxiv.org/abs/2308.00951v1))
+1. Language-Routing Mixture of Experts for Multilingual and Code-Switching Speech Recognition ([arXiv](https://arxiv.org/abs/2307.05956))
+1. Mixture of Informed Experts for Multilingual Speech Recognition ([arXiv](https://ieeexplore.ieee.org/document/9414379)) **[Note: Behind IEEE paywall]**
+1. Mixture-of-Expert Conformer for Streaming Multilingual ASR ([arXiv](https://arxiv.org/abs/2305.15663))
+1. Beyond Distillation: Task-level Mixture-of-Experts for Efficient Inference ([arXiv](https://aclanthology.org/2021.findings-emnlp.304.pdf))
