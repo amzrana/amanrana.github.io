@@ -8,4 +8,4 @@ Welcome ! My name is Aman Rana and this is my personal technical blog on various
 
 ### [What are Mixture of Experts (MoE) ?][def]
 
-[def]: blogs/what_are_mixture_of_experts.md
+[def]: _posts/what_are_mixture_of_experts.md
